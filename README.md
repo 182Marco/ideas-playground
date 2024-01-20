@@ -26,8 +26,8 @@ To get started with the app, follow these steps:
 
 1. Copy to clipboard repo link: https://github.com/182Marco/GetCalculationsIdeas?tab=readme-ov-file
 2. Clone this repository running → `git clone` + paste the link you copied from above
-3. Install dependencies using `yarn install`.
-4. Launch the application with `yarn start`.
+3. Install dependencies using `npm i`.
+4. Launch the application with `npm run start`.
 
 Feel free to modify and extend the code found in the `src` directory to align with your exploration and learning objectives. The goal is to maintain a well-organized repository that can serve as a valuable reference for future study.
 
