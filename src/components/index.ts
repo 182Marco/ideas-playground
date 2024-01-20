@@ -1,2 +1,1 @@
-export * from "./FirstComp";
-export * from "./SeconComp";
+export * from './Invest';

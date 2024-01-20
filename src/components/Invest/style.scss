@@ -1,0 +1,36 @@
+@import './../../styles/vars';
+
+.Invest {
+  h1 {
+    color: $comment-color;
+    margin: 0 0 23px;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 800px;
+    & > div {
+      display: flex;
+      flex-direction: column;
+      & label {
+        margin-bottom: 5px;
+      }
+      & > input {
+        width: 100%;
+      }
+    }
+  }
+
+  h2 {
+    color: $cyan-color;
+    margin: 23px 0 0;
+  }
+
+  @media (max-width: 500px) {
+    form > div > input {
+      width: 100%;
+    }
+  }
+}

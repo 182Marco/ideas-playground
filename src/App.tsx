@@ -1,14 +1,11 @@
-import "./App.css";
-import { FirstComp, SecondComp } from "./components";
-import "./styles/globals.scss";
+import './App.css';
+import {Invest} from './components';
+import './styles/globals.scss';
 
-function App() {
-  return (
-    <div className="app">
-      <FirstComp />
-      <SecondComp />
-    </div>
-  );
-}
+export const App = () => (
+  <div className='app'>
+    <Invest />
+  </div>
+);
 
 export default App;
