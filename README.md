@@ -24,7 +24,7 @@ How could your country repay the public debt?
 
 To get started with the app, follow these steps:
 
-1. Copy to clipboard repo link: https://github.com/182Marco/GetCalculationsIdeas?tab=readme-ov-file
+1. Copy to clipboard repo link: https://github.com/182Marco/ideas-playground
 2. Clone this repository running → `git clone` + paste the link you copied from above
 3. Install dependencies using `npm i`.
 4. Launch the application with `npm run start`.
