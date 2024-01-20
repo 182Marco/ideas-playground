@@ -1,6 +1,6 @@
 import "./App.css";
 import { FirstComp, SecondComp } from "./components";
-import "./style.scss";
+import "./styles/globals.scss";
 
 function App() {
   return (
